@@ -1,2 +1,2 @@
 # GpsEverybody
-Se planea ofrecer un servicio para personas usuarias de sillas de ruedas una aplicación.
+Se planea ofrecer un servicio para personas usuarios con discapacidad una aplicación, la cual les proporcionará independencia para movilizarse en la zonas urbanas por medio de una ruta óptima y favorable para los usuarios del aplicativo , por ejemplo, priorizar las rutas con rampas y evitar al máximo calles que estén en construcción o cualquier otro estado que le dificulte la movilidad a una persona en silla de ruedas.
